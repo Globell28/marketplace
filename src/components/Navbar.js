@@ -12,7 +12,7 @@ class Navbar extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Blockchain Market Place
+            USM Blockchain Market Place
           </a>
         
           <ul className="navbar-nav px-3">

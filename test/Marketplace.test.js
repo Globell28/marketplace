@@ -1,4 +1,4 @@
-const Marketplace = artifacts.require('./Marketplace.sol');
+/*const Marketplace = artifacts.require('./Marketplace.sol');
 
 require('chai')
   .use(require('chai-as-promised'))
@@ -101,4 +101,4 @@ contract('Marketplace', ([deployer, seller, buyer]) =>{
              await marketplace.purchaseProduct(productCount, { from: buyer, value: web3.utils.toWei('1', 'Ether') }).should.be.rejected;
            })+
 	})
-})
+})*/
